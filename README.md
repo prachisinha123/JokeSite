@@ -1,2 +1,2 @@
-#JOKE-SITE
-#Tell Me a Joke!!
+JOKE-SITE
+Tell Me a Joke!!
